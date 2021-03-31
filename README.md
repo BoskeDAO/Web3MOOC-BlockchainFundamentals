@@ -1,4 +1,4 @@
-# Web3 Blockchain Fundamentals:
+# Web3 Blockchain Fundamentals
 
 A 20-week course on blockchain fundamentals including decentralization, cryptography, mining, smart contracts and consensus.
 
@@ -28,12 +28,12 @@ History of Blockchain Technology
      * Hiding
      * Puzzle-friendliness
 
-## Lecture 4: Hashing In*Depth
+## Lecture 4: Hashing In-Depth
 * Merkle-Damgard transforms
 * Digital signatures
 * Public identities
 
-## Lecture 5: Blockchain*Related Data Structures and Concepts
+## Lecture 5: Blockchain-Related Data Structures and Concepts
 * Hash pointers
 * Hash chains
 * Merkle trees
@@ -48,7 +48,7 @@ History of Blockchain Technology
 * Bernoulli trials and Poisson process outcome
 * Transaction fees and block rewards
 
-## Lecture 8: Mining In*Depth
+## Lecture 8: Mining In-Depth
 * Mining difficulty
 * Hardware (CPU vs GPU vs FPGAs vs ASICs)
 * Mining pools
@@ -66,7 +66,7 @@ History of Blockchain Technology
 * Limitations of Bitcoin and other blockchains
 
 ## Lecture 11: Achieving Consensus
-* On*chain consensus mechanisms
+* On-chain consensus mechanisms
 * Other kinds of consensus: rules, history, value
 * BIPs (Bitcoin Improvement Proposals), EIPs, etc
 
@@ -87,10 +87,10 @@ History of Blockchain Technology
 * Coinjoin
 
 ## Lecture 14: Non-SHA256 Proof-of-Work
-* Progress*freeness
+* Progress-freeness
 * ASIC-resistant (not ASIC-proof) puzzles
 * Memory-hard puzzles (e.g. Scrypt)
-* Proof-of-useful*work
+* Proof-of-useful-work
 * Non-outsourceable Puzzles
 
 ## Lecture 15: Proof-of-Stake
