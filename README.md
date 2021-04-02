@@ -2,7 +2,10 @@
 
 A 20-week course on blockchain fundamentals including decentralization, cryptography, mining, smart contracts and consensus.
 
-## Lectures: 
+## Related Course with pdf lectures:
+https://github.com/laboon/CS1699_Fall2018/blob/master/course-info.md
+
+## Web3 MOOC video lectures: 
 * https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J
 
 ## Introduction 
